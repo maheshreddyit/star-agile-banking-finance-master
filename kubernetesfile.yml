@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: bankingfinance
-          image: maheshr8050/bankingdemoo:1
+          image: maheshr8050/bankingdemo:1
           ports:
             - containerPort: 8081
           env:
